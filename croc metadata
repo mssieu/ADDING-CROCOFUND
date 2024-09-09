@@ -1,0 +1,12 @@
+{
+  "name": "CrocoFund",
+  "symbol": "CROC",
+  "description": "CrocoFund is an innovative digital investment fund designed to offer smart and sustainable investment solutions on the Solana (Sol). We provide investors worldwide with the opportunity to join a digital ecosystem characterized by strength and transparency, backed by the trust and reliability embodied in our iconic symbol – the mighty crocodile.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaKiNCZMfqWFe48zPkWrQcBEHaJaF84qARGP78ZjhPgN5",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "finance"
+    }
+  ]
+}
